@@ -1,0 +1,54 @@
+
+body
+{
+    color: grey;
+    background-color: black;
+}
+
+.left_side
+{
+    width: 50%;
+    float: left;
+}
+
+.header_1
+{
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+
+.postfix_image
+{
+    width:90%;
+}
+
+.postfix_calc_par
+{
+    font-size: 20px;
+    line-height: 1.2;
+    font-family: 'Helvetica';
+    text-align: left;
+}
+
+
+.back_page
+{
+    font-size: 22px;
+    font-weight: bolder;
+    font-family: 'Helvetica';
+}
+
+a:link
+{
+    text-decoration: none;
+    color: cyan;
+}
+
+a:visited
+{
+    color: deeppink;
+    text-decoration: none;
+}
+
+

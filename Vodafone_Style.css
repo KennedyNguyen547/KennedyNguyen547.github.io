@@ -1,0 +1,83 @@
+
+body
+{
+    color: darkgrey;
+    background-color: black;
+}
+
+a:link 
+{
+    text-decoration: none;
+    color: cyan;
+}
+
+a:visited 
+{
+    text-decoration: none;
+    color: deeppink;
+}
+
+.link_to_main
+{
+    font-weight: bolder;
+    font-family: 'Gill Sans MT';
+    font-size: 30px;
+}
+
+.division_row
+{
+    clear: both;
+}
+
+.left_side
+{
+    float: left;
+    width: 40%;
+}
+
+
+.chi2_image
+{
+    float: left;
+    width: 100%;
+}
+
+.paragraph
+{
+    text-align: left;
+    font-size: 22px;
+    line-height: 1.5;
+
+
+}
+
+.github_link 
+{
+    font-size: 30px;
+    clear: both;
+    text-align: center;
+}
+
+.right_side
+{
+    float: right;
+    width: 50%;
+}
+
+.knn_rfe_image
+{
+    float: left;
+    width: 60%;
+}
+
+.rfe_image 
+{
+    float: right;
+    width: 40%;
+
+}
+
+.right_row3
+{
+    background-color: aqua;
+}
