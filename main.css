@@ -1,0 +1,130 @@
+
+
+body
+{
+    color: rgb(114, 169, 184);
+    background-color: black;
+}
+
+
+.left_col
+{
+    width: 40%;
+    float: left;
+}
+
+
+#author_img
+{
+    float: right;
+    width: 30%;
+}
+
+.paragraph
+{
+    width: 20%;
+    font-size: 22px;
+    line-height: 1.5;
+    font-family: 'Helvetica';
+}
+
+
+.right_col
+{
+    width: 50%;
+    float: right;
+}
+
+.header_row
+{
+    font-weight: bolder;
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Helvetica';
+    
+}
+
+#links_div
+{
+    font-size: 26px;
+    font-family: 'Helvetica';
+    font-weight: bold;
+    text-align: center;
+    line-height: 0.9;
+}
+
+
+.left_col2
+{
+    width: 40%;
+    float: left;
+}
+
+.right_col2
+{
+    width: 50%;
+    float: right;
+}
+
+.paragraph_header
+{
+    font-weight: bolder;
+    font-size: 32px;
+    text-align: left;
+    font-family: 'Helvetica';
+}
+
+
+.resume_table_img
+{
+    display: block;
+    width: 80%;
+}
+
+#resume_img
+{
+    padding-left: 5%;
+    float: left;
+}
+
+.resume_table_td
+{
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(219, 208, 208);
+}
+
+.img_table
+{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+a:visited
+{
+    color: deeppink;
+    text-decoration: none;
+}
+a:link
+{
+    text-decoration: none;
+    color: cyan;
+}
+
+
+.left_col3
+{
+    float: left;
+    width: 50%;
+}
+
+
+.right_col3
+{
+    float: right;
+    width: 45%;
+}
